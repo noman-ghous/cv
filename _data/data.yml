@@ -46,12 +46,7 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Astute. Resourceful. Team Player. Self-Motivated and Extremely Organised. Technically-savvy with good DevOps skills. Excellent at analysis, design, development and implementation. Skilled in a variety of platforms and languages. Adept at going beyond that of a DevOps to that of a user advocate, designer and developer Supportive and enthusiastic team player dedicated to streamlining processes and efficiently resolving project issues.
 education:
     - degree: MSc in Computer Science
       university: University of London
@@ -113,6 +108,20 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
+experiences:
+    - role: Lead Developer
+      time: 2015 - Present
+      company: Startup Hubs, San Francisco
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
 projects:
     title: Projects
     intro: >
